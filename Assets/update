@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Flowers </title>
+</head>
+
+<body>
+	<header>Flowers in Ifurundu Page</header>
+
+	<u>
+		<h3><li> Hawaiian White Hibiscus <i>(Hibiscus arnottianus)</i> </li></h3>
+		<h3><li> Haemorrhage plant <i>(Aspilia Africana)</i> </li></h3>
+		<h3><li> Dwarf white bauhinia <i>(Bauhinia acuminata)</i> </li><h3>
+	</u>
+
+	<p>
+		<h3>Hibiscus arnottianus</h3>
+
+		This beautiful Hawaiian species is a shrub or a small tree, depending on its natural growth habit and how it is trained. The flowers are pure white with light pink pistils that accent the loose open form. Although they are known to flower throughout the year on their native islands, it tends to bloom mostly in summer. When in bloom, the growing tips are inundated with buds and flowers emerge daily for weeks. They are quite vigorous, have an upright habit and do best in a full sun exposure.
+
+		The large white flowers are mildly fragrant. Some people can’t smell them as the fragrance is quite subtle. They are best sniffed when the wind is calm and in the early morning just after it opens or early evening just before it closes.
+	</p>
+
+<p>
+	<span ID = Haemorrhage plant>
+		<h3>Haemorrhage plant</h3>
+		Aspilia Africana is a rapid growing, semi-woody herb usually producing annual stems about 2 metres tall from a perennial woody root-stock. It has a somewhat aromatic carroty smell. The leaves are opposite and with rough lamina. Its capitula are terminal, solitary or in ‘lax racemes’, at times axillary, radiating, white, yellow, lilac or purple.
+
+		The plant has the unique ability to treat numerous disease conditions. It is commonly referred to as the ‘haemorrhage plant’ in some of the communities where the plant is distributed due to its unique potential to stop bleeding.
+	</p>
+	</span>
+
+</body>
